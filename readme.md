@@ -66,7 +66,7 @@ python MRIViewandSegapp.py
 
 Arayüz açıldıktan sonra "MRI Yükle" butonu aracılığıyla `.nii` veya `.nii.gz` formatındaki 3D MR dosyanızı seçin. Görüntüyü inceleyebilir hale geliceksiniz, model tahmini ve temel gerçeği de ilgili butonlarla yükleyebilirsinz.
 
-![video](video/kullanim.mp4)
+https://github.com/user-attachments/assets/49935037-8742-4120-b0a3-28f89bced29c
 
 ## 📧 İletişim
 
