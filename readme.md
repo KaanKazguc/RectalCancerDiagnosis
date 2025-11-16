@@ -38,7 +38,7 @@ Geliştirilen masaüstü uygulama, kullanıcıların aynı anda üç farklı gö
 
 ## Alakalı bir porje
 
-Projenin web üzerinde çalışan bir haline ![buradan](https://github.com/emirzaza/RectalCancerDiagnosisWEB) ulaşabilirsin. @emirzaza'ya teşekkürler.
+Projenin web üzerinde çalışan bir haline [buradan](https://github.com/emirzaza/RectalCancerDiagnosisWEB) ulaşabilirsin. @emirzaza'ya teşekkürler.
 
 ## 🧠 Model ve Veri
 
