@@ -38,7 +38,7 @@ Geliştirilen masaüstü uygulama, kullanıcıların aynı anda üç farklı gö
 
 ## Alakalı bir porje
 
-Projenin web üzerinde çalışan bir haline ![buradan](https://github.com/emirzaza/RectalCancerDiagnosisWEB) ulaşabilirsin. @emirzaza'ya teşekkürler.
+Projenin web üzerinde çalışan bir haline [buradan](https://github.com/emirzaza/RectalCancerDiagnosisWEB) ulaşabilirsin. @emirzaza'ya teşekkürler.
 
 ## 🧠 Model ve Veri
 
@@ -66,7 +66,7 @@ python MRIViewandSegapp.py
 
 Arayüz açıldıktan sonra "MRI Yükle" butonu aracılığıyla `.nii` veya `.nii.gz` formatındaki 3D MR dosyanızı seçin. Görüntüyü inceleyebilir hale geliceksiniz, model tahmini ve temel gerçeği de ilgili butonlarla yükleyebilirsinz.
 
-![video](video/kullanim.mp4)
+https://github.com/user-attachments/assets/49935037-8742-4120-b0a3-28f89bced29c
 
 ## 📧 İletişim
 
